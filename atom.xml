@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[明月秋风]]></title>
   <link href="http://wweiradio.github.io/atom.xml" rel="self"/>
   <link href="http://wweiradio.github.io/"/>
-  <updated>2015-06-10T01:16:11+08:00</updated>
+  <updated>2015-06-10T01:25:04+08:00</updated>
   <id>http://wweiradio.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[wweiradio]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -19,10 +19,6 @@
     <updated>2015-06-10T01:09:44+08:00</updated>
     <id>http://wweiradio.github.io/blog/2015/06/10/hello-world</id>
     <content type="html"><![CDATA[<p>Ok, i think this can be displaied.</p>
-
-<p>= OK
-== OK2
-=== OK3</p>
 
 <!-- more -->
 
